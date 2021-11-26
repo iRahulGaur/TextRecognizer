@@ -9,3 +9,5 @@ This app uses Google's Text Recognition ML Kit which has trained models to recog
 
 You can use the app as you like, or clone the repository to add your own customizations to the app.
 If this helps you, do not forget to Star the Repository and Fork it to contribute :)
+
+This app also uses library to update App from other sources such as Github
